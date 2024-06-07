@@ -1,9 +1,10 @@
+# 📊 Pharmaceutical Sales Forecasting Project
 
-# Enhancing Pharmaceutical Sales Predictions
+Welcome to our graduation project repository! 🎓✨ 
 
-As I near the completion of our academic journey at Boğaziçi University, I am thrilled to share our graduation project, developed under the supervision of Prof. Dr. Aslı Sencer. This project represents the culmination of our efforts in the MIS department, where we have leveraged our skills and knowledge to tackle a real-world problem in the pharmaceutical sector.
+We’re a team of three final-year students from the MIS department at Boğaziçi University: Sena, Ömer, and Aleyna. Under the wonderful supervision of Prof. Dr. Aslı Sencer, we’ve developed a powerful time series forecasting model aimed at accurately predicting the sales volumes of specific Stock Keeping Units (SKUs) within the pharmaceutical sector. 💊📈
 
-Our project was a collaborative effort, and I had the pleasure of working alongside my dear friends [Ömer Akkuş](https://www.linkedin.com/in/ömer-akkuş-0793851ba/) and [Aleyna Hasağdaş](https://www.linkedin.com/in/aleynahasagdas/). Together, we embarked on this journey to create a robust solution for improving sales forecasting in the pharmaceutical industry.
+------
 
 ## The Aim: Transforming Sales Forecasting
 
